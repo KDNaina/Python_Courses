@@ -15,7 +15,7 @@ if __name__ == '__main__':
                 m[mail] = m.get(mail, 0) + 1
         for key in m:
             if m[key] == max(m.values()):
-                print(key, m[key])
+                print(key, m[key])      #if you get error, remove parenthesis
     except:
         #print("Can not open file")
         pass
