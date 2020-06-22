@@ -16,4 +16,4 @@ if __name__ == '__main__':
             m[wd[5][:2]] = m.get(wd[5][:2], 0) + 1
 
     for key in sorted(m.keys()):
-        print(key, m[key])
+        print(key, m[key])       #if you get error, remove parenthesis
