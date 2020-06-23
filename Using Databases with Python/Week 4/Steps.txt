@@ -2,5 +2,5 @@
 2) execute roster.py file --> enter file name of your json file
 3) roster.sqlite file will be generated 
 4) load roster.sqlite file and run given query in assignment,
-you will get following answer
+you will get answer like following 
 41617279616E736933333430
