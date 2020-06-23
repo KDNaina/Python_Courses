@@ -1,7 +1,7 @@
 import re
 
 if __name__ == '__main__':
-    file = open('regex_sum_694308.txt')
+    file = open('regex_sum_694308.txt') #replace file name with your filename
     sm = 0
     wd = 0
     for line in file:
